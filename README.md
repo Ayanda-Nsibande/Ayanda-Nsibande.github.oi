@@ -29,7 +29,7 @@
     <div class="container">
         <!--💡UPDATE: Change to your name and title-->
         <h1>Ayanda Nsibande</h1>
-        <p>Data Analyst | Power BI Developer | Data Analyst</p>
+        <p>Data Analyst | Power BI Developer | SQL </p>
         <div class="social-links">
             <!--💡UPDATE: Add your social media links and CV file-->
             <a href="https://www.linkedin.com/in/ayanda-nsibande-1b554738b/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
